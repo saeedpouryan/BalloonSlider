@@ -1,4 +1,4 @@
 # Flutter BalloonSlider
 
 
-<img src="/balloon_slider.gif" width='200'/>
+<img src="/balloon_slider.gif" width='220'/>
